@@ -5,6 +5,7 @@ Figma: https://www.figma.com/file/ieu7TpNgtcl4O8HJmUQaCs/AraComp2023?type=design
 <br>
 <br>
 <br>
+
 Comandos:
 ```bash
     npx create-next-app@latest
